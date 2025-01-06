@@ -27,15 +27,13 @@ Công tác tại: IVS JSC (Cần Thơ)
 ## 📋 Các bước cài đặt và chạy dự án
 - **Phần đã làm**:
 1. Clone repository:
-git clone https://github.com/dathu198/ASPNET-dk23ttc10-lamquocdat-MILKTEA.git
+  git clone https://github.com/dathu198/ASPNET-dk23ttc10-lamquocdat-MILKTEA.git
 
 - **Phần chưa làm**:
 2.Tạo một cơ sở dữ liệu mới trong SQL Server:
-Nhập dữ liệu mẫu từ tệp: database.sql. (sẽ cập nhật sau)
-Cấu hình dự án trong Visual Studio:
+  Nhập dữ liệu mẫu từ tệp: database.sql. (sẽ cập nhật sau)
+  Cấu hình dự án trong Visual Studio:
 
 3.Mở tệp dự án .sln trong Visual Studio:
-Kiểm tra chuỗi kết nối cơ sở dữ liệu trong tệp appsettings.json.
-Chạy ứng dụng:
-
-Nhấn F5 hoặc chọn Run trong Visual Studio để khởi động dự án.
+  Kiểm tra chuỗi kết nối cơ sở dữ liệu trong tệp appsettings.json.
+  Chạy ứng dụng: Nhấn F5 hoặc chọn Run trong Visual Studio để khởi động dự án.

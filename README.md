@@ -25,9 +25,9 @@ Công tác tại: IVS JSC (Cần Thơ)
 
 
 ## 📋 Các bước cài đặt và chạy dự án
-- **Phần đã làm**:
-1. Clone repository:
-  git clone https://github.com/dathu198/ASPNET-dk23ttc10-lamquocdat-MILKTEA.git
+1. **Clone repository**:
+   ```bash
+   git clone https://github.com/username/MILKTEA.git
 
 - **Phần chưa làm**:
 2.Tạo một cơ sở dữ liệu mới trong SQL Server:

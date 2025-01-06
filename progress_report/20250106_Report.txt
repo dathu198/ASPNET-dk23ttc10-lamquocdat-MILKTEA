@@ -1,0 +1,11 @@
+*** Báo cáo tiến độ project ngày 1/6/2025:
+- Tạo được Repository mang tên: ASPNET-dk23ttc10-lamquocdat-MILKTEA
+- Đường dẫn: https://github.com/dathu198/ASPNET-dk23ttc10-lamquocdat-MILKTEA
+- Đã mời giảng viên hướng dẫn của mình làm một Collaborator theo mail:  antonio86doan@gmail.com
+- Upload và commit file Readme.md theo chuẩn Markdown
+
+*** Khó khăn:
+Chưa hiểu một số vấn đề, cần giải thích trực tiếp thông qua giảng viên
+
+*** Việc tiếp theo:
+Nghiên cứu và tiến hành làm các bước tiếp theo

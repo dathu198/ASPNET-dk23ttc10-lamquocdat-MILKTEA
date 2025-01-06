@@ -1,6 +1,6 @@
 # 🥤 MILKTEA - Website Quán Trà Sữa
 
-Chào mừng bạn đến với dự án **MILKTEA**, một website quản lý quán trà sữa được xây dựng bởi **Lâm Quốc Đạt**, sinh viên ngành Công nghệ Thông - MSSV: 170123335 tin tại **Trường Đại học Trà Vinh (TVU)**. 🚀
+Chào mừng bạn đến với dự án **MILKTEA**, một website quản lý quán trà sữa được xây dựng bởi **Lâm Quốc Đạt**, sinh viên ngành CNTT - MSSV: 170123335 **Trường Đại học Trà Vinh (TVU)**. 🚀
 
 ## 🌟 Mục tiêu của dự án
 Tạo ra một nền tảng hiện đại và tiện ích giúp quản lý quán trà sữa, bao gồm các chức năng như quản lý menu, đặt hàng, và theo dõi đơn hàng.

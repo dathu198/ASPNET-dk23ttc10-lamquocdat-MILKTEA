@@ -29,10 +29,10 @@ Công tác tại: IVS JSC (Cần Thơ)
    ```bash
    git clone https://github.com/username/MILKTEA.git
 
-2. **Tạo một cơ sở dữ liệu mới trong SQL Server**:
+2. **Tạo một cơ sở dữ liệu mới trong SQL Server**:  
   Nhập dữ liệu mẫu từ tệp: database.sql. (sẽ cập nhật sau)  
   Cấu hình dự án trong Visual Studio:
 
-3. **Mở tệp dự án .sln trong Visual Studio**:
+3. **Mở tệp dự án .sln trong Visual Studio**:  
   Kiểm tra chuỗi kết nối cơ sở dữ liệu trong tệp appsettings.json.  
   Chạy ứng dụng: Nhấn F5 hoặc chọn Run trong Visual Studio để khởi động dự án.

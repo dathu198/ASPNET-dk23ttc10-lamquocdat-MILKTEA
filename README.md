@@ -36,5 +36,6 @@ Công tác tại: IVS JSC (Cần Thơ).
   Cấu hình dự án trong Visual Studio:
 
 3. **Mở tệp dự án .sln trong Visual Studio**:
-  Kiểm tra chuỗi kết nối cơ sở dữ liệu trong tệp appsettings.json.
+  Kiểm tra chuỗi kết nối cơ sở dữ liệu trong tệp TraSuaEntities.cs
   Chạy ứng dụng: Nhấn F5 hoặc chọn Run trong Visual Studio để khởi động dự án.
+  

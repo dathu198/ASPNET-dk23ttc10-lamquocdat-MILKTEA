@@ -19,7 +19,8 @@ Dự án được phát triển với các công nghệ sau:
 Nếu thầy và các bạn muốn đóng góp ý tưởng hoặc báo cáo lỗi, vui lòng tạo một Issue hoặc gửi Pull Request. Đạt rất hoan nghênh sự đóng góp từ cộng đồng.
 
 📞 Liên hệ
-Tác giả: Lâm Quốc Đạt
+Tác giả: Lâm Quốc Đạt  
+ĐT: 0989552480
 Email: lamcody16@gmail.com
 Công tác tại: IVS JSC (Cần Thơ)
 
@@ -30,7 +31,8 @@ Công tác tại: IVS JSC (Cần Thơ)
    git clone https://github.com/username/MILKTEA.git
 
 2. **Tạo một cơ sở dữ liệu mới trong SQL Server**:
-  Nhập dữ liệu mẫu từ tệp: database.sql. (sẽ cập nhật sau)
+  Nhập dữ liệu mẫu từ tệp: database.sql.
+  Link database:  
   Cấu hình dự án trong Visual Studio:
 
 3. **Mở tệp dự án .sln trong Visual Studio**:

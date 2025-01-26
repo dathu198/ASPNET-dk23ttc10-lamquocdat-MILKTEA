@@ -61,9 +61,8 @@ namespace DoAn.Models.EF
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             var connectionString =
-                @"data source=DESKTOP-UML28IP;initial catalog=WebsiteTraSua;integrated security=True;MultipleActiveResultSets=True;";
-            //@"data source=DESKTOP-UML28IP;initial catalog=WebsiteTraSua;integrated security=True;MultipleActiveResultSets=True;";
-            //workstation id = WebsiteTraSua.mssql.somee.com; packet size = 4096; user id = nguyenkhoi99_SQLLogin_1; pwd = pnvjojxj7l; data source = WebsiteTraSua.mssql.somee.com; persist security info = False; initial catalog = WebsiteTraSua
+                @"data source=LQDAT\SQLEXPRESS;initial catalog=WebsiteTraSua;integrated security=True;MultipleActiveResultSets=True;";
+            //@"data source=LQDAT\SQLEXPRESS;initial catalog=WebsiteTraSua;integrated security=True;MultipleActiveResultSets=True;";              
 
             optionsBuilder.UseSqlServer(connectionString);
         }
